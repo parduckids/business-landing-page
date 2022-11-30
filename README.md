@@ -1,4 +1,4 @@
-# A fictinal business landing page
+# A fictional business landing page
 
 [Live Link](https://parduckids.github.io/business-landing-page)
 
